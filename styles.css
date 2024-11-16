@@ -144,6 +144,7 @@
       height: 300px; /* Alto de la imagen */
       align-items: center;
       position: relative;
+      margin-top: 30px;
   }
   .logo img::after{
     content: '';
